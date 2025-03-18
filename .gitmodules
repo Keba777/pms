@@ -1,0 +1,6 @@
+[submodule "pms-frontend"]
+	path = pms-frontend
+	url = https://github.com/Keba777/pms-frontend.git
+[submodule "pms-backend"]
+	path = pms-backend
+	url = https://github.com/Keba777/pms-backend.git
